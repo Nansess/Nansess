@@ -14,7 +14,7 @@ I'm focusing on backend development with Node.js and enhancing my C++ skills.
 
 ## 📫 Get in touch
 
-- NaN Bot: [NaN BoT](nansess.com)
+- NaN Bot: [NaN BoT](https://nansess.com)
 - Twitter: [@NansessDev](https://twitter.com/NansessDev)
 - Email: nan@nansess.com
 
