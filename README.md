@@ -19,9 +19,9 @@ I'm currently focusing on backend development with Node.js and improving my know
 
 ## 📫 Get in touch
 
-- LinkedIn: [Nansess' LinkedIn Profile](https://www.linkedin.com/in/nansess/)
+- LinkedIn: [NaN BoT](nansess.com)
 - Twitter: [@NansessDev](https://twitter.com/NansessDev)
-- Email: nansess@example.com
+- Email: nan@nansess.com
 
 ## 📈 GitHub Stats
 
