@@ -1,25 +1,20 @@
 # Hi, I'm Nansess 👋
 
-I'm a software developer with a focus on Node.js and web development. I love working on various projects and exploring new technologies in the web development domain.
+I'm a software developer with experience in JavaScript and C++. I also work with C#, Java, and Python.
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: JavaScript
+- JavaScript, C#, C++, Java, Python
 - Web Development: HTML, CSS, Node.js, Express.js
 - Version Control: Git, GitHub
 
-## 🚀 Projects
-
-- [Classfiared](https://github.com/nansess/classfiared)
-- [Sushhh](https://github.com/nansess/sushhh)
-
 ## 🌱 Currently Learning
 
-I'm currently focusing on backend development with Node.js and improving my knowledge of databases, REST APIs, and asynchronous programming.
+I'm focusing on backend development with Node.js and enhancing my C++ skills.
 
 ## 📫 Get in touch
 
-- LinkedIn: [NaN BoT](nansess.com)
+- NaN Bot: [NaN BoT](nansess.com)
 - Twitter: [@NansessDev](https://twitter.com/NansessDev)
 - Email: nan@nansess.com
 
