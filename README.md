@@ -22,7 +22,9 @@ I'm focusing on backend development with Node.js and breaking my will to live wi
 
 ![Nansess's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nansess&show_icons=true&theme=radical)
 
-[![Languages](https://img.shields.io/github/languages/count/your-username/your-repo-name)](https://github.com/your-username/your-repo-name)
+# Hi there 👋
+
+![Nansess's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nansess&show_icons=true&theme=radical)
 
 
 ## 🎉 Recent Activity
