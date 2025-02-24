@@ -10,7 +10,7 @@ I'm a software developer with experience in JavaScript and C++. I also work with
 
 ## 🌱 Currently Learning
 
-I'm focusing on backend development with Node.js and breaking my will to live with C++.
+Nothing
 
 ## 📫 Get in touch
 
