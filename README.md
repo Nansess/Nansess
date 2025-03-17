@@ -1,16 +1,6 @@
-# Hi, I'm Nansess 👋
+# Hi, I'm Nansess 
 
-I'm a software developer with experience in JavaScript and C++. I also work with C#, Java, and Python.
-
-## 🛠️ Technologies & Tools
-
-- JavaScript, C#, C++, Java, Python
-- Web Development: HTML, CSS, Node.js, Express.js
-- Version Control: Git, GitHub
-
-## 🌱 Currently Learning
-
-Nothing
+I'm a average software developer that hates software development
 
 ## 📫 Get in touch
 
